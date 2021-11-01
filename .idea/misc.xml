@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/workspace/Andriod/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
         <entry key="..\:/workspace/Andriod/app/src/main/res/layout/content_main.xml" value="0.16590678824721378" />
+        <entry key="..\:/workspace/Andriod/app/src/main/res/layout/fragment_first.xml" value="0.28020833333333334" />
+        <entry key="..\:/workspace/Andriod/app/src/main/res/layout/fragment_second.xml" value="0.28020833333333334" />
+        <entry key="..\:/workspace/Andriod/app/src/main/res/layout/searchlayout.xml" value="0.2557291666666667" />
       </map>
     </option>
   </component>
